@@ -70,7 +70,6 @@
 │   │   └── Perceptron_Model.ipynb
 │   └── 4_Multilayer_perceptron
 │       ├── Multilayer_Perceptron.ipynb
-│       └── empty_file_to_track_folder.rtf
 ├── 6_Presentations
 │   ├── Baseline Presentation.pptx
 │   ├── Images
