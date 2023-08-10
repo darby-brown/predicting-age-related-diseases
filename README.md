@@ -1,5 +1,9 @@
 # **Identifying Age-Related Conditions**
 
+[https://img.shields.io/badge/contributors-4-green](https://img.shields.io/badge/contributors-4-green)
+[https://img.shields.io/badge/last_commit-august_2023-blue](https://img.shields.io/badge/last_commit-august_2023-blue)
+[https://img.shields.io/badge/languages-python-yellow](https://img.shields.io/badge/languages-python-yellow)
+
 ## Project Overview
 
 - Can we predict the presence of any of three age-related conditions?  
@@ -137,7 +141,11 @@ Best model: 
 - Ensemble learning with metadata to predict classes
 - Fairness:  there could be bias because of age-related diseases difference between men and women
 
-## References
+## Acknowledgements/References
+
+We want to thank Professor Cornelia Ilin for her suggestions on ways to improve our models. 
+
+ **References**
 
 - Akabane, Shota, et al. "Machine learning-based prediction of postoperative mortality in emergency colorectal surgery: A retrospective, multicenter cohort study using Tokushukai Medical Database." (2023).
 - Alageel, Nojood, et al. "Using Machine Learning Algorithm as a Method for Improving Stroke Prediction." _International Journal of Advanced Computer Science and Applications_ 14.4 (2023).
