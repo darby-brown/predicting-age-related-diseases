@@ -1,9 +1,5 @@
 # **Identifying Age-Related Conditions**
 
-[https://img.shields.io/badge/contributors-4-green](https://img.shields.io/badge/contributors-4-green)
-[https://img.shields.io/badge/last_commit-august_2023-blue](https://img.shields.io/badge/last_commit-august_2023-blue)
-[https://img.shields.io/badge/languages-python-yellow](https://img.shields.io/badge/languages-python-yellow)
-
 ## Project Overview
 
 - Can we predict the presence of any of three age-related conditions?  
