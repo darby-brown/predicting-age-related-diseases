@@ -69,7 +69,7 @@
 │   ├── 3_Perceptron
 │   │   └── Perceptron_Model.ipynb
 │   └── 4_Multilayer_perceptron
-│       ├── Multilayer_Perceptron.ipynb
+│       └── Multilayer_Perceptron.ipynb
 ├── 6_Presentations
 │   ├── Baseline Presentation.pptx
 │   ├── Images
