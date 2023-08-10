@@ -36,87 +36,47 @@
 
 ```
 .
-
 ├── 0_Kaggle
-
 │   ├── Data
-
 │   │   ├── greeks.csv
-
 │   │   ├── test.csv
-
 │   │   └── train.csv
-
 │   ├── sample_notebook.ipynb
-
 │   └── sample_submission.csv
-
 ├── 1_Literature
-
 │   ├── 0_Random_Forests
-
 │   │   ├── A_Heart_Disease_Prediction_Model_using_SVM-Decisio.pdf
-
 │   │   ├── Decision trees and their use in medicine.pdf
-
 │   │   ├── Machine learning-based prediction of postoperative mortality in emergency colorectal surgery- A retrospective, multicenter cohort study using Tokushukai Medical Database.pdf
-
 │   │   └── Using_Machine_Learning_Algorithm_as_a_Method_for_I.pdf
-
 │   └── 1_Neural Networks
-
-│       └── Grassman et al 2018.pdf
-
+│       └── Grassman et al 2018.pdf
 ├── 2_Data
-
 │   ├── greeks.csv
-
 │   └── train.csv
-
 ├── 3_EDA
-
 ├── 4_Preprocessing
-
 │   ├── 0_data_preprocessing.ipynb
-
 │   └── 1_RF_feature_importance.ipynb
-
 ├── 5_Models
-
 │   ├── 0_Random_forests
-
 │   │   ├── 0_sklearn_rf_kfolds_pca.ipynb
-
 │   │   └── 1_RF_downsampling.ipynb
-
 │   ├── 1_XGBoost
-
-│   │   └── empty_file_to_track_folder.rtf
-
+│   │   └── xgboost_model.ipynb
 │   ├── 2_Logistic_regression
-
-│   │   └── empty_file_to_track_folder.rtf
-
+│   │   └── Logistic_Regression_final.ipynb
 │   ├── 3_Perceptron
-
-│   │   └── empty_file_to_track_folder.rtf
-
+│   │   └── Perceptron_Model.ipynb
 │   └── 4_Multilayer_perceptron
-
-│       └── empty_file_to_track_folder.rtf
-
-└── 6_Presentations
-
-    ├── Baseline Presentation.pptx
-
-    ├── Images
-
-    │   ├── Grassman et al 2018.jpeg
-
-    │   └── Podgorelec et al 2022.png
-
-    └── baseline_presentation_feedback.md
-
+│       └── empty_file_to_track_folder.rtf
+├── 6_Presentations
+│   ├── Baseline Presentation.pptx
+│   ├── Images
+│   │   ├── Grassman et al 2018.jpeg
+│   │   └── Podgorelec et al 2022.png
+│   └── baseline_presentation_feedback.md
+└── README.md
 ```
 
 
